@@ -1,0 +1,10 @@
+{ 
+	"software": [{ 
+		"name":"FEK320", 
+		"install":{  
+			"ZFSROOT":"/zbrew/", 
+			"ZFSDIR":"usr/lpp/IBM/zexpl/", 
+			"LEAVES":"\"IBM bin lib lib/icuc plugin samples\""
+		 }
+	}] 
+}
