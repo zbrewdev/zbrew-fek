@@ -1,0 +1,8 @@
+{ 
+	"software": [{ 
+		"relid":"FEK311", 
+		"description":"IBM Explorer for z/OS V3.1.1",
+		"prereq":[],
+		"coreq": []
+	}] 
+}
