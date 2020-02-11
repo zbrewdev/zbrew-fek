@@ -2,7 +2,7 @@
 	"software": [{ 
 		"relid":"FEK320", 
 		"description":"IBM Explorer for z/OS V3.2.0",
-		"prereq":[]
+		"prereq":[],
 		"coreq": []
 	}] 
 }
