@@ -98,6 +98,7 @@
 				"dstype":"PDS",
 				"recfm":"U",
 				"lrecl":0,
+				"dirblks":"10",
 				"primary":20, 
 				"secondary":5, 
 				"zones":["T"]
