@@ -9,8 +9,9 @@
 				"primary":6500, 
 				"secondary":75, 
 				"zones":["T"],
-				"dddefpath":"IBM/",
-				"mountpnt":""
+				"dddefpath":"usr/lpp/IBM/fek/fek311/zexpl/IBM/",
+				"mountpnt":"usr/lpp/IBM/fek/fek311/zexpl/",
+				"leaves":"IBM,bin,lib,lib/icuc,plugin,samples"
 			},
 			{
 				"dsname":"SFEKAUTH",
