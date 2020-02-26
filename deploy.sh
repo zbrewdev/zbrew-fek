@@ -36,7 +36,6 @@ mkdir $1/fek311
 mkdir $1/fek311/docs
 mkdir $1/fek311/docs/C
 mkdir $1/fek311/docs/C/cat1
-mkdir $1/fek311/fek311
 
 names=`cat fek311.bom`
 code="${names}"
