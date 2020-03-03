@@ -2,6 +2,7 @@
 	"software": [
 	{
 		"name":"FEK311",
+		"child":"FELE20",
 		"datasets":[ 
 			{
 				"dsname":"SFEKZFS",
