@@ -1,7 +1,7 @@
 { 
 	"software": [
 	{
-		"name":"FEK320",
+		"relid":"FEK320",
 		"datasets":[ 
 			{
 				"dsname":"SFEKZFS",
